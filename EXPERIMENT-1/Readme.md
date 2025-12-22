@@ -20,9 +20,8 @@ System.out.println("boolean:"+bool);
 }
 }
 ```
-#OUTPUT
-![EXPERIMENT 1 OUTPUT]
-exp1a.png
+# OUTPUT
+![EXPERIMENT 1 OUTPUT](exp1a.png)
 ## TITLE; 1b.)Display the quadratic roots
 ```
 import java.util.Scanner;
