@@ -57,6 +57,5 @@ System.out.println("Root2="+real+"-i"+imaginary);
 }
 }
 ```
-#OUTPUT
-![EXPERIMENT 1 OUTPUT]
-(exp1b.png)
+# OUTPUT
+![EXPERIMENT 1 OUTPUT](exp1b.png)
