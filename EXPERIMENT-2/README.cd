@@ -17,7 +17,7 @@ System.out.println("sum:"+result);
 }
 ```
 # OUTPUT
-![EXPERIMENT 2 OUTPUT](exp2a.png)
+![EXPERIMENT 2 OUTPUT](exp_2a_output.png)
 ## TITLE; 2b.)JAVA program implement method overloading
 ```
 class OverloadExample {
@@ -41,7 +41,7 @@ System.out.println("Result of adding three integers:" +sum3);
 }
 }
 # OUTPUT
-![EXPERIMENT 2 OUTPUT](exp2b.png)
+![EXPERIMENT 2 OUTPUT](exp_2b_output.png)
 ## TITLE; 2c.)JAVA program to implement constructor
 ```
 class Student {
@@ -64,4 +64,4 @@ S1.display();
 }
 }
 # OUTPUT
-![EXPERIMENT 2 OUTPUT](exp2c.png)
+![EXPERIMENT 2 OUTPUT](exp_2c_output.png)
