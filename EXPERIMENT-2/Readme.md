@@ -42,7 +42,7 @@ System.out.println("Result of adding three integers:" +sum3);
 }
 ```
 # OUTPUT
-![EXPERIMENT 2 OUTPUT](exp_2b_output.png).
+![EXPERIMENT 2 OUTPUT](exp_2b_output.png)
 ## TITLE: 2c.) java program to implement constructor
 ```
 class Student {
