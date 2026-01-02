@@ -1,5 +1,5 @@
 #Experiment2
-## TITLE; 2a.)implement class mechanism in java
+## TITLE: 2a.) Implement class mechanism in java
 ```
 class Myclass {
 void displayMessage() {
@@ -18,7 +18,7 @@ System.out.println("sum:"+result);
 ```
 # OUTPUT
 ![EXPERIMENT 2 OUTPUT](exp_2a_output.png)
-## TITLE; 2b.)JAVA program implement method overloading
+## TITLE: 2b.)JAVA program implement method overloading
 ```
 class OverloadExample {
 int add(int a,int b) {
@@ -40,9 +40,10 @@ System.out.println("Result of adding two double values:" +sum2);
 System.out.println("Result of adding three integers:" +sum3);
 }
 }
+```
 # OUTPUT
-![EXPERIMENT 2 OUTPUT](exp_2b_output.png)
-## TITLE; 2c.)JAVA program to implement constructor
+![EXPERIMENT 2 OUTPUT](exp_2b_output.png).
+## TITLE: 2c.) java program to implement constructor
 ```
 class Student {
 String name;
@@ -63,5 +64,6 @@ Student S1=new Student("Bob",10,75);
 S1.display();
 }
 }
+```
 # OUTPUT
 ![EXPERIMENT 2 OUTPUT](exp_2c_output.png)
