@@ -45,7 +45,7 @@ Main.java
 }
 ```
 # output
-![screenshot](exp_3a_output.png)
+![screenshot](exp_3a_output.PNG)
 
 # TITLE: 3b.)  Implementing Binary Search Algorithm
 ```
