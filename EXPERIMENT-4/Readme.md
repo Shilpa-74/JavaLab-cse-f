@@ -45,7 +45,7 @@ public class TestEmployee {
 }
 ```
 #OUTPUT:
-![EXPERIMENT 4A OUTPUT](exp4a.png)
+![EXPERIMENT 4A OUTPUT](exp_4a_output.png)
 
 
 ## 4B)Title:Multiple Inheritance:
@@ -95,7 +95,7 @@ public class TestVehicle {
 
 ```
 #OUTPUT:
-![EXPERIMENT 4B OUTPUT](exp4b.png)
+![EXPERIMENT 4B OUTPUT](exp_4b_output.png)
 
 
 ##4C Title:Abstract class to find area of different shapees
@@ -146,4 +146,4 @@ public class TestFigure {
 
 ```
 #OUTPUT:
-![EXPERIMENT 4C OUTPUT](exp4c.png)
+![EXPERIMENT 4C OUTPUT](exp_4c_output.png)
